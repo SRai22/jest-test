@@ -1,0 +1,32 @@
+{
+  "name": "testing-node-api",
+  "version": "1.0.0",
+  "description": "Testing NodeJS API with Jest and Supertest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SRai22/jet-test.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Jest",
+    "supertest",
+    "API"
+  ],
+  "author": "Shravan S Rai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SRai22/jet-test.git/issues"
+  },
+  "homepage": "https://github.com/SRai22/jet-test.git",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "supertest": "^6.3.4"
+  }
+}
